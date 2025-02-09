@@ -7,4 +7,4 @@ Whether you're a beginner or a pro, there's always something exciting to explore
 
 🔥 Ready to level up your skills? Dive in and enjoy the ride!
 
-🔗 **Visit IfCode** [ifcode.netlify.app]
+🔗 **Visit IfCode** ifcode.netlify.app
